@@ -29,9 +29,9 @@ Student of multiplatform development.
 
 ## Entornos
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code" width="20">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" alt="Android Studio" width="20">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" alt="PyCharm" width="20">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code" width="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" alt="Android Studio" width="50">
+<img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" width="50">
 </p>
 
 ## GitHub Stats
