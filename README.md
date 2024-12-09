@@ -4,11 +4,9 @@ I'm currently a student of multiplatform development.
 ---
 
 ## Operating systems used
-<p align="center">
+<p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows" width="20">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="20">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Kali-linux-logo.svg" alt="Kali Linux" width="20">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="20">
 </p>
 ---
 
