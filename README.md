@@ -4,7 +4,7 @@ I'm currently a student of multiplatform development.
 ---
 
 ## Operating systems used
-![Windows] [https://www.google.com/imgres?q=windows&imgurl=https%3A%2F%2Fforoalfa.org%2Fimagenes%2Filustraciones%2F1121.jpg&imgrefurl=https%3A%2F%2Fforoalfa.org%2Farticulos%2Funa-ventana-en-perspectiva&docid=ipFVrrRo8SqbfM&tbnid=aVIDgb-GPxrrTM&vet=12ahUKEwjM6-P82ZqKAxUHS_EDHRqeDVQQM3oFCIgBEAA..i&w=720&h=720&hcb=2&ved=2ahUKEwjM6-P82ZqKAxUHS_EDHRqeDVQQM3oFCIgBEAA]
+![Windows] (https://www.google.com/imgres?q=windows&imgurl=https%3A%2F%2Fforoalfa.org%2Fimagenes%2Filustraciones%2F1121.jpg&imgrefurl=https%3A%2F%2Fforoalfa.org%2Farticulos%2Funa-ventana-en-perspectiva&docid=ipFVrrRo8SqbfM&tbnid=aVIDgb-GPxrrTM&vet=12ahUKEwjM6-P82ZqKAxUHS_EDHRqeDVQQM3oFCIgBEAA..i&w=720&h=720&hcb=2&ved=2ahUKEwjM6-P82ZqKAxUHS_EDHRqeDVQQM3oFCIgBEAA)
 ---
 
 ## Languages used
