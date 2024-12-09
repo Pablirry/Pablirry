@@ -11,6 +11,8 @@ Student of multiplatform development.
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img width="12" />
 </div>
 ---
 
