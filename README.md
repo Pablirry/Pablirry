@@ -19,13 +19,13 @@ Student of multiplatform development.
 
 ---
 
-## Technologies used
+## Tecnologias
 ![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?logo=discord&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
 ---
 
-## Software used
+## Entornos
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat)
