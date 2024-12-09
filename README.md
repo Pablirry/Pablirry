@@ -1,16 +1,16 @@
-# Hi, my name is Pablo Lopez Ruiz 👋  
-I'm currently a student of multiplatform development.
+# Pablo Lopez Ruiz 👋  
+Student of multiplatform development.
 
 ---
 
-## Operating systems used
+## Systemas operativos
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows" width="20" >
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="20" padding="10">
 </p>
 ---
 
-## Languages used
+## Lenguajes usados
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
