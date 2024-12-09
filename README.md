@@ -4,9 +4,12 @@ I'm currently a student of multiplatform development.
 ---
 
 ## Operating systems used
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows" width="20" style="display: inline-block; margin-right: 10px;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="20" style="display: inline-block; margin-right: 10px;"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Kali-linux-logo.svg" alt="Kali Linux" width="20" style="display: inline-block; margin-right: 10px;">
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Kali-linux-logo.svg" alt="Kali Linux" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="50">
+</p>
 ---
 
 ## Languages used
