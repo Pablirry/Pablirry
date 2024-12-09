@@ -30,4 +30,4 @@ I'm currently a student of multiplatform development.
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat)
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?Pablo=Pablirry&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablirry&show_icons=true)
