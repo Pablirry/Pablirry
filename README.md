@@ -1,5 +1,5 @@
 # Pablo Lopez Ruiz 👋  
-Student of multiplatform development.
+Estudiante desarrolo de plicaciones multiplataforma
 
 ---
 
