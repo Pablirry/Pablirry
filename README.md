@@ -31,4 +31,4 @@ Student of multiplatform development.
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat)
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablirry&show_icons=true&theme=darkula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablirry&show_icons=true&theme=drakula)
