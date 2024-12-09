@@ -46,7 +46,7 @@ Student of multiplatform development.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
   <img width="12" />
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG-Logo.svg](https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg)" height="30" alt="Eclipse IDE" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/eclipse/eclipse-original.svg" height="30" alt="Eclipse IDE" />
   <img width="12" />
 </div>
 
