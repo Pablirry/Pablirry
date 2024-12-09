@@ -22,8 +22,8 @@ Student of multiplatform development.
 
 ## Tecnologías
 <p align="left">
-<img src="https://avatars.githubusercontent.com/u/26492485?s=200&v=4" alt="Discord.js" width="30">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="30">
+<img src="https://avatars.githubusercontent.com/u/26492485?s=200&v=4" alt="Discord.js" width="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="50">
 </p>
 ---
 
