@@ -1,6 +1,6 @@
 # Pablo Lopez Ruiz 👋  
 Tecnico superior desarrollo de aplicaciones multiplataforma
-Altos conocimientos de back-end (java y python) y unos pocos de front-end
+<div> Altos conocimientos de back-end (java y python) y unos pocos de front-end </div>
 Manejo de bases de datos
 
 ---
