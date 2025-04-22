@@ -44,10 +44,12 @@
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/></td>
   </tr>
   <tr>
     <td align="center">Git</td>
     <td align="center">GitHub</td>
+    <td align="center">Docker</td>
   </tr>
 </table>
 
