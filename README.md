@@ -68,7 +68,7 @@
 ## GitHub Stats
 
 ![Pablo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Pablirry&show_icons=true&theme=dark#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pablirry&repo=github-readme-stats)
 
 
 
