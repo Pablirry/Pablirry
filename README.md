@@ -74,7 +74,7 @@
 
 ## 📊 GitHub Stats
 <a href="https://github.com/Pablirry">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Pablirry&show_icons=true&theme=onedark" />
+  <img height=200 align="center" src="https://github-stats-bp.vercel.app/api?username=Pablirry&show_icons=true&theme=onedark" />
 </a>
 
 <a href="https://github.com/Pablirry">
