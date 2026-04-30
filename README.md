@@ -74,8 +74,9 @@
 
 ## 📊 GitHub Stats
 <a href="https://github.com/Pablirry">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Pablirry&show_icons=true&theme=onedark" />
+  <img height=200 align="center" src="[https://github-readme-stats.vercel.app](https://github-stats-48hg3wt2z-pablos-projects-1f0afd68.vercel.app/)/api?username=Pablirry&show_icons=true&theme=onedark" />
 </a>
+
 <a href="https://github.com/Pablirry">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pablirry&layout=donut&langs_count=8&card_width=320&theme=onedark" />
 </a>
