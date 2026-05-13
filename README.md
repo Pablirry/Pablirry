@@ -51,7 +51,7 @@
 
 <p align="center">
   <img height="190em" src="https://github-stats.vercel.app/api?username=Pablirry&show_icons=true&theme=radical" />
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablirry&layout=compact&theme=onedark" />
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablirry&theme=radical&show_icons=true&hide_border=true&layout=compact" />
 </p>
 
 <p align="center">
